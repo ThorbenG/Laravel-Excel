@@ -17,6 +17,10 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
+  "repositories": [{
+      "type": "vcs",
+      "url": "https://github.com/ThorbenG/PHPExcel.git"
+  }],
   "require": {
     "php": ">=5.5",
     "phpoffice/phpexcel": "^1.8.1",
